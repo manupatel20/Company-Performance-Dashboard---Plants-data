@@ -8,7 +8,7 @@ This project is a **Company Performance Dashboard** that visualizes key performa
 
 <img width="1179" alt="image" src="https://github.com/user-attachments/assets/27d5c793-34ef-4c59-b6dc-5372e83fbbfd" />
 
----
+
 
 ## **Features**
 - **Interactive Dashboard**: Built with Streamlit for a user-friendly interface.
@@ -17,7 +17,7 @@ This project is a **Company Performance Dashboard** that visualizes key performa
 - **Real-Time Updates**: Load and analyze data in real-time.
 - **Scalable**: Designed to handle large datasets efficiently.
 
----
+
 
 ## **Prerequisites**
 Before running the code, ensure you have the following:
@@ -27,4 +27,3 @@ Before running the code, ensure you have the following:
 3. **Pip**: Ensure `pip` is installed to manage Python packages.
 
 
----
